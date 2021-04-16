@@ -1,1 +1,1 @@
-sync k8s.gcr.io/kube-controller-manager:v1.18.17
+sync k8s.gcr.io/kube-controller-manager:v1.18.18
